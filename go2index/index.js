@@ -1,12 +1,12 @@
 // =======Options START=======
 var authConfig = {
   siteName: "GoIndex-theme-acrou", // 网站名称
-  version: "1.1.1", // 程序版本
+  version: "1.1.2", // 程序版本
   theme: "acrou",
   // 强烈推荐使用自己的 client_id 和 client_secret
-  client_id: "202264815644.apps.googleusercontent.com",
-  client_secret: "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-  refresh_token: "", // 授权 token
+  client_id: "322295951908-1fid0ulabcspccukb2d0sa27pptbr6ab.apps.googleusercontent.com",
+  client_secret: "8WWicRAkYoi64b4EnhAXfQV0",
+  refresh_token: "1//063gB9wl1r-jeCgYIARAAGAYSNwF-L9IrfGYierT1moSI60YToYOq6tP1fgzGL6osh_91sO_2RMePD6UGHQa5Efqhu64EjF5xvT0", // 授权 token
   /**
    * 设置要显示的多个云端硬盘；按格式添加多个
    * [id]: 可以是 团队盘id、子文件夹id、或者"root"（代表个人盘根目录）；
